@@ -63,3 +63,7 @@ git rm crazy.html
 ## Delete a branch
 git branch -d css
 git branch
+
+## Rule-of-thumb for git branches:
+1. Create a branch for each major addition to the project
+2. Don't create a branch if you can't give it a specific name
