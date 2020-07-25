@@ -53,17 +53,13 @@ Notes:
 3. Standardizing workflow and collaboration
 
 git branch
-<<<<<<< HEAD
-
-
-
-=======
 git branch crazy ## Create a new branch
 git checkout crazy
 
 ## Renaming file
 ### rm command tells git to stop tracking
 git rm crazy.html
->>>>>>> css
 
-
+## Delete a branch
+git branch -d css
+git branch
