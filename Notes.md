@@ -57,6 +57,7 @@ git branch crazy ## Create a new branch
 git checkout crazy
 
 ## Renaming file
-
+### rm command tells git to stop tracking
+git rm crazy.html
 
 
