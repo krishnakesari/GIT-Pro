@@ -46,4 +46,14 @@ git reset --hard
 ### Deleting un tracked files
 git clean -f 
 
+## Branches
+Notes: 
+1. error-proof method for changes in code
+2. Store all experiments in a single directory
+3. Standardizing workflow and collaboration
+
+git branch
+
+
+
 
